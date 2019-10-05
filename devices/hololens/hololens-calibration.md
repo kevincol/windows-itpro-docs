@@ -49,7 +49,7 @@ If calibration was successful, you'll see a success screen.  If not, read more a
 
 ### Calibration when sharing a device or session
 
-Multiple users can share a HoloLens 2 device, without a need for each person to go through device setup. When a new user puts the device on their head for th first time, HoloLens 2 automatically prompts the user to calibrate visuals. When a user that has previously calibrated visuals puts the device on their head, the display seamlessly adjusts for quality and a comfortable viewing experience.  
+Multiple users can share a HoloLens 2 device, without a need for each person to go through device setup. When a new user puts the device on their head for the first time, HoloLens 2 automatically prompts the user to calibrate visuals. When a user that has previously calibrated visuals puts the device on their head, the display seamlessly adjusts for quality and a comfortable viewing experience.  
 
 ### Manually starting the calibration process
 
